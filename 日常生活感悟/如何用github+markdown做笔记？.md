@@ -1,0 +1,3 @@
+- [ ] 注册Github新建笔记仓库
+- [ ] 下载软件Git、Typora、Obsidian
+- [ ] 设置Typora和Obsidian
